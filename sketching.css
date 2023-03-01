@@ -1,0 +1,19 @@
+.container
+{
+	display: grid;
+	gap:1px;
+	width:1200px;
+	
+}
+
+.container div
+{
+	border:solid black;
+	padding: 8px;
+}
+
+button
+{
+	padding:8px;
+	margin:15px;
+}
